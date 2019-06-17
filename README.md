@@ -1,13 +1,13 @@
 <h1>ArduinoStartKIT</h1>
 <h3>ชุดการเรียนรู้ Arduino พร้อม Code ตัวอย่าง โดยใช้ NodeMCU V2 พร้อมอุปกรณ์ Sensor หลายรู้แบบ เขียนโปรแกรมด้วย
 Arduino IDE</h3>
-Description :<br>
-<div>
-  <img src="images/BoxKit.png" width="500">
-</div>
 <div>
   <img src="images/StartKit.png" width="500">
 </div>
+<div>
+  <img src="images/BoxKit.png" width="500">
+</div>
+Description :<br>
 ขาย ชุดการเรียนรู้ ที่มาพร้อมอุปกรณ์ ประกอบด้วย<br>
 1. NodeMCU Development V2 x 1 <br>
 2. ToolBoxSet x 1 <br>
