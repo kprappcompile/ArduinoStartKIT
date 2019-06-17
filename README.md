@@ -3,10 +3,10 @@
 Arduino IDE</h3>
 Description :<br>
 <div>
-  <img src="images/BoxKitHeader.pnp" width="500">
+  <img src="images/BoxKit.png" width="500">
 </div>
 <div>
-  <img src="images/BoxKit.pnp" width="500">
+  <img src="images/BoxKit.png" width="500">
 </div>
 ขาย ชุดการเรียนรู้ ที่มาพร้อมอุปกรณ์ ประกอบด้วย<br>
 1. NodeMCU Development V2 x 1 <br>
