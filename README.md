@@ -41,33 +41,33 @@ Description :<br>
 <h3>ติดตั้ง โปรแกรม</h3>
 <ul>
 <li>
-<h4>ติดตั้ง Arduino IDE <a target="_bank" href="https://github.com/kprappcompile/Install-Arduino-IDE">การติดตั้งArduino IDE</a></h4>
+<h4>ติดตั้ง Arduino IDE <a target="_bank" href="https://github.com/kprappcompile/InstallArduinoIDE">การติดตั้ง Arduino IDE</a></h4>
 </li>
 <li>
-<h4>ติดตั้ง Driver USB CP2102 <a target="_bank" href="https://github.com/kprappcompile/Install-Arduino-IDE"> Clik</a></h4>
+<h4>ติดตั้ง Driver USB CP2102 <a target="_bank" href="https://github.com/kprappcompile/installCP2102">การติดตั้ง Driver CP2102</a></h4>
 </li>
 <li>
-<h4>Board NodeMCU ESP8266 V2 <a target="_bank" href="https://github.com/kprappcompile/Install-Arduino-IDE">Click </a> </h4>
+<h4>Board NodeMCU ESP8266 V2 <a target="_bank" href="https://github.com/kprappcompile/NodeMCU-V2">รู้จัก NodeMCU V2</a> </h4>
 </li>
 </ul>
 
 <h3>การเรียนรู้</h3>
 <ul>
-<li>การใช้งาน LED Diode RGB <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน LED Diode Ultra Bright <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน Relay <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน Soil Moisture Hygrometer Detection<a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน Temperature Detection <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a>
+<li>การใช้งาน LED Diode RGB <a target="_bank" href="https://github.com/kprappcompile/LEDDiodeRGB">Click</a></li>
+<li>การใช้งาน LED Diode Ultra Bright <a target="_bank" href="https://github.com/kprappcompile/LEDDiodeUltraBright">Click</a></li>
+<li>การใช้งาน Relay 2 Way <a target="_bank" href="https://github.com/kprappcompile/Relay2Way">Click</a></li>
+<li>การใช้งาน Soil Moisture Hygrometer Detection<a target="_bank" href="https://github.com/kprappcompile/Soil-Moisture-Hygrometer-Detection">Click</a></li>
+<li>การใช้งาน Temperature Detection <a target="_bank" href="https://github.com/kprappcompile/Temperature-Detection">Click</a>
 </li>
-<li>การใช้งาน Photosensitive brightness resistance <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน IR Infrared Sensor <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน Buzzer Module <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน Ultrasonic Wave Detector <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a>
+<li>การใช้งาน Photosensitive brightness resistance <a target="_bank" href="https://github.com/kprappcompile/Photosensitive-brightness">Click</a></li>
+<li>การใช้งาน IR Infrared Sensor <a target="_bank" href="https://github.com/kprappcompile/IR-Infrared-Sensor">Click</a></li>
+<li>การใช้งาน Buzzer Module <a target="_bank" href="https://github.com/kprappcompile/Buzzer-Module">Click</a></li>
+<li>การใช้งาน Ultrasonic Wave Detector <a target="_bank" href="https://github.com/kprappcompile/Ultrasonic-Wave-Detector">Click</a>
 </li>
-<li>การใช้งาน Liquid Rain Water Level Sensor <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน LCD module Blue screen IIC/I2C 1602 <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน Touch Sensor Capacitive <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a>
+<li>การใช้งาน Liquid Rain Water Level Sensor <a target="_bank" href="https://github.com/kprappcompile/Liquid-Rain-Water-Level-Sensor">Click</a></li>
+<li>การใช้งาน LCD Module Blue screen IIC/I2C 1602 <a target="_bank" href="https://github.com/kprappcompile/LCD-Module">Click</a></li>
+<li>การใช้งาน Touch Sensor Capacitive <a target="_bank" href="https://github.com/kprappcompile/Touch-Sensor-Capacitive">Click</a>
 </li>
-<li>การใช้งาน Infrared PIR module Motion Sensor <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
-<li>การใช้งาน IR Infrared 3 Wire Flame Detection <a target="_bank" href="https://github.com/kprappcompile/Install-Drever-C2102">Click</a></li>
+<li>การใช้งาน Infrared Motion Sensor Module <a target="_bank" href="https://github.com/kprappcompile/Infrared-Motion-Sensor-Module">Click</a></li>
+<li>การใช้งาน Infrared Flame Detection <a target="_bank" href="https://github.com/kprappcompile/Infrared-Flame-Detection">Click</a></li>
 </ul>
