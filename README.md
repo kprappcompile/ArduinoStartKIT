@@ -53,9 +53,9 @@ Description :<br>
 
 <h3>การเรียนรู้</h3>
 <ul>
-<li>การใช้งาน LED Diode RGB <a target="_bank" href="https://github.com/kprappcompile/LEDDiodeRGB">Click</a></li>
-<li>การใช้งาน LED Diode Ultra Bright <a target="_bank" href="https://github.com/kprappcompile/LEDDiodeUltraBright">Click</a></li>
-<li>การใช้งาน Relay 2 Way <a target="_bank" href="https://github.com/kprappcompile/Relay2Way">Click</a></li>
+<li>การใช้งาน LED Diode RGB <a target="_bank" href="https://github.com/kprappcompile/LED-Diode-RGB">Click</a></li>
+<li>การใช้งาน LED Diode Ultra Bright <a target="_bank" href="https://github.com/kprappcompile/LED-Diode-UltraBright">Click</a></li>
+<li>การใช้งาน Relay 2 Way <a target="_bank" href="https://github.com/kprappcompile/Relay-2Way">Click</a></li>
 <li>การใช้งาน Soil Moisture Hygrometer Detection<a target="_bank" href="https://github.com/kprappcompile/Soil-Moisture-Hygrometer-Detection">Click</a></li>
 <li>การใช้งาน Temperature Detection <a target="_bank" href="https://github.com/kprappcompile/Temperature-Detection">Click</a>
 </li>
